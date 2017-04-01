@@ -26,7 +26,7 @@ public class Driver_prj1 {
     
     
     for(int i=0; i < (list1.length + list2.length)-1; i++){
-      System.out.print(convolved[i]+ " ");
+      System.out.print(Math.round(convolved[i])+ " ");
     }
   }
 
