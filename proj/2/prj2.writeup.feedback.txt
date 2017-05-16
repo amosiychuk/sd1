@@ -1,0 +1,15 @@
+32 pts
+
+The project attempts to detect words on a website.
+The idea has good merit. 
+
+However, there are some issues...
+Writeup:
+- Document says "Milestone" this should be your extended final writeup. -2pts
+
+Code:
+- There is incorrect indentation. -1pt
+
+Overall:
+- The project is extremely easy. You can do a lot better than this. -5pts
+
